@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: brejinha
+
+
+http:
+  services:
+    brewdog:
+      url: https://api.punkapi.com/v2/
